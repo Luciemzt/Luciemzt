@@ -1,5 +1,12 @@
 ### Hello ! Welcome to my Github profile ! 👋
 
+
+
+## 📬 Get in touch
+- LinkedIn: [linkedin.com/in/mazetlucie][2]
+
+
+
 <!--
 **Luciemzt/Luciemzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
