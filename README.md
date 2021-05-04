@@ -2,7 +2,7 @@
 
 My name is Lucie, I am a native French speaker, living in Barcelona for the past 5 years.6 Months ago, I decided to start writting code, and bring to life all my creatives ideas :)
 
-I am a creative, tech enthusiast looking to push boundaries and explore new ideas!
+=> I am a creative, tech enthusiast looking to push boundaries and explore new ideas!
 
 If you share the same excitement, I am happy to connect and speak with you very soon !
 
