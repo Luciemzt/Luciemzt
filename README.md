@@ -10,8 +10,8 @@ const webDevelopment = {
 ```
 
 ### Some projects👇
-[Confetti] (https://confettis.netlify.app/)<br>
-[Save Christmas!] (https://luciemzt.github.io/jeu2noel/)
+[Confetti](https://confettis.netlify.app/)<br>
+[Save Christmas!](https://luciemzt.github.io/jeu2noel/)
 
 
 
