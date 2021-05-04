@@ -6,8 +6,7 @@ I have mainly been part of operations & support teams, from finance to digital m
 
 6 Months ago, I decided to start writting code, and bring to life all my creatives ideas :)
 
-## => I joined the Ironhack Part-time bootcamp, and started the adventure ! 
-
+ => I joined the Ironhack Part-time bootcamp, and started the adventure ! 
 
 I am always looking for excellence and the most efficient way to work = >Smart work >Hard work, that's my motto !
 
