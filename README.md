@@ -15,8 +15,8 @@ const webDevelopment = {
 ```
 
 ### Some projects👇
-[Confetti](https://confettis.netlify.app/)<br> My first app created using React. 
-[Save Christmas!](https://luciemzt.github.io/jeu2noel/) My first game created using Java Script. 
+[Confetti](https://confettis.netlify.app/)<br> My first app created using React. <br>
+[Save Christmas!](https://luciemzt.github.io/jeu2noel/)<br> My first game created using Java Script. <br>
 [Plantastique](http://plantastique.herokuapp.com/)
 
 
