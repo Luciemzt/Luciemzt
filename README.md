@@ -3,8 +3,7 @@
 
 
 ## 📬 Get in touch
-- LinkedIn: [linkedin.com/in/mazetlucie]
-
+- [LinkedIn](https://www.linkedin.com/in/mazetlucie/)
 
 
 <!--
