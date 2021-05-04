@@ -17,8 +17,7 @@ const webDevelopment = {
 ### Some projects👇
 [Confetti](https://confettis.netlify.app/)<br> My first app created using React. <br>
 [Save Christmas!](https://luciemzt.github.io/jeu2noel/)<br> My first game created using Java Script. <br>
-[Plantastique](http://plantastique.herokuapp.com/)
-
+[Plantastique](http://plantastique.herokuapp.com/) <br> My first app created in pair programming. <br>
 
 
 ### 📬 Get in touch
