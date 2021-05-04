@@ -1,8 +1,21 @@
 ### Hello ! Welcome to my Github profile ! 👋
 
+### Programming Knowledge
+
+```js
+const webDevelopment = {
+ code:[JavaScript,CSS,HTML 5,React],
+ tools:[NodeJS,Express,MongoDB]
+}
+```
+
+### Some projects👇
+[Confetti] (https://confettis.netlify.app/)<br>
+[Save Christmas!] (https://luciemzt.github.io/jeu2noel/)
 
 
-## 📬 Get in touch
+
+### 📬 Get in touch
 [LinkedIn](https://www.linkedin.com/in/mazetlucie/)
 
 
